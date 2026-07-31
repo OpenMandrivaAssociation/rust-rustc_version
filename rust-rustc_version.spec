@@ -4,8 +4,8 @@
 %global crate rustc_version
 
 Name:           rust-%{crate}
-Version:        0.4.0
-Release:        2
+Version:        0.4.1
+Release:        1
 Summary:        Library for querying the version of a installed rustc compiler
 
 # Upstream license specification: MIT/Apache-2.0
